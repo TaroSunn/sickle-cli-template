@@ -1,0 +1,11 @@
+{
+  "name": "@sickle/cli-template-vue3",
+  "version": "1.0.0",
+  "description": "vue3 template",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
