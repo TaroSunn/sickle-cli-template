@@ -1,5 +1,5 @@
 {
-  "name": "<%= className% >",
+  "name": "<%= className %>",
   "version": "<%= version %>",
   "private": false,
   "main": "dist/lego-components.umd.js",

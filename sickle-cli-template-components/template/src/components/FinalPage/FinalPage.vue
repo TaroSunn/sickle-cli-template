@@ -13,7 +13,7 @@ export default defineComponent({
   name: 'final-page',
   props: {
     page: {
-      type: Object as PropType<PageData>,
+      type: Object as PropType<PageData>
     },
     components: {
       type: Array as PropType<ComponentData[]>,
